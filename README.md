@@ -109,6 +109,23 @@ Send Acknowledgement Email
 
 ---
 
+## Support SLA Rules
+
+Complaint
+Response Required: Within 1 Hour
+
+Refund Request
+Response Required: Within 4 Hours
+
+Support Request
+Response Required: Within 2 Hours
+
+Sales Inquiry
+Response Required: Within 24 Hours
+
+These SLA rules help ensure faster response times and improve customer satisfaction.
+
+
 ## Tools & Concepts
 
 * AI Workflow Automation
